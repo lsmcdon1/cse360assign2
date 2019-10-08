@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"cse360assign2","c":"AddingMachine","l":"add(int)"},{"p":"cse360assign2","c":"AddingMachine","l":"AddingMachine()"},{"p":"cse360assign2","c":"AddingMachine","l":"clear()"},{"p":"cse360assign2","c":"AddingMachine","l":"getTotal()"},{"p":"cse360assign2","c":"AddingMachine","l":"subtract(int)"},{"p":"cse360assign2","c":"AddingMachine","l":"toString()"}]
