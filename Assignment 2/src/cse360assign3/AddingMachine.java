@@ -1,4 +1,4 @@
-package cse360assign2;
+package cse360assign3;
 /**
  * Performs basic add and subtract calculations and maintains calculation
  * history accessible through a toString method. 
@@ -19,8 +19,8 @@ package cse360assign2;
  */
 public class AddingMachine {
 
-	private int total;
-	private String history;
+	protected int total;
+	protected String history;
 	
 	/** 
 	 * Constructor for the AddingMachine class. 
